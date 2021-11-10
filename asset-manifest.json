@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rmoloney96.github.io/monsters-rolodex/static/css/main.dfb49c58.chunk.css",
+    "main.js": "/rmoloney96.github.io/monsters-rolodex/static/js/main.a8690fb4.chunk.js",
+    "main.js.map": "/rmoloney96.github.io/monsters-rolodex/static/js/main.a8690fb4.chunk.js.map",
+    "runtime-main.js": "/rmoloney96.github.io/monsters-rolodex/static/js/runtime-main.450e6aba.js",
+    "runtime-main.js.map": "/rmoloney96.github.io/monsters-rolodex/static/js/runtime-main.450e6aba.js.map",
+    "static/js/2.376cb942.chunk.js": "/rmoloney96.github.io/monsters-rolodex/static/js/2.376cb942.chunk.js",
+    "static/js/2.376cb942.chunk.js.map": "/rmoloney96.github.io/monsters-rolodex/static/js/2.376cb942.chunk.js.map",
+    "static/js/3.d786c8b5.chunk.js": "/rmoloney96.github.io/monsters-rolodex/static/js/3.d786c8b5.chunk.js",
+    "static/js/3.d786c8b5.chunk.js.map": "/rmoloney96.github.io/monsters-rolodex/static/js/3.d786c8b5.chunk.js.map",
+    "index.html": "/rmoloney96.github.io/monsters-rolodex/index.html",
+    "static/css/main.dfb49c58.chunk.css.map": "/rmoloney96.github.io/monsters-rolodex/static/css/main.dfb49c58.chunk.css.map",
+    "static/js/2.376cb942.chunk.js.LICENSE.txt": "/rmoloney96.github.io/monsters-rolodex/static/js/2.376cb942.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.450e6aba.js",
+    "static/js/2.376cb942.chunk.js",
+    "static/css/main.dfb49c58.chunk.css",
+    "static/js/main.a8690fb4.chunk.js"
+  ]
+}
